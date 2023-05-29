@@ -1,0 +1,4 @@
+# PROG6221-POE-PART2
+How to use the cookWithMe Application
+The cookWithMe application is used to record and store cooking recipe, ingredients, steps, descriptions, food group type, calories, and unit of measurements. To use this application, the user will need to open the fine using a Microsoft virtual studio application. The user will now be able to run the application.
+Once the application is running, it will display a menu with options to Add, display, reset, clear recipe and to exit the application. If the user wants to add a recipe, they will have to type the option “Add recipe” and press enter, then the application will allow the user to input name of recipe, ingredients, and steps to make the recipe. After the recipe is created and saved the user can now click select recipe from the menu to view the full recipe information.
